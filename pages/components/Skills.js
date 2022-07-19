@@ -4,7 +4,7 @@
       <h2 className="py-10 tracking-widest text-teal-700 uppercase">
         Skills
       </h2>
-    <div className="grid gap-8 md:grid-cols-2 lg:grid-cols-4 ">
+    </div>
   </div>
 
   <div className="p-5 duration-200 ease-in rounded-full shadow-xl hover:scale-105">

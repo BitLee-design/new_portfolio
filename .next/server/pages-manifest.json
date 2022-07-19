@@ -1,0 +1,13 @@
+{
+  "/_app": "pages/_app.js",
+  "/_error": "pages/_error.js",
+  "/api/hello": "pages/api/hello.js",
+  "/components/About": "pages/components/About.js",
+  "/components/Contact": "pages/components/Contact.js",
+  "/components/Main": "pages/components/Main.js",
+  "/components/Nav": "pages/components/Nav.js",
+  "/components/Projects": "pages/components/Projects.js",
+  "/components/Skills": "pages/components/Skills.js",
+  "/": "pages/index.js",
+  "/_document": "pages/_document.js"
+}
